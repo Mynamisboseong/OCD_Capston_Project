@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Run_0
+      name: Run 0
       rect:
         serializedVersion: 2
         x: 0
@@ -143,14 +143,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6eed464846504e54eb9870ce8a85169d
-      internalID: 316493668
+      spriteID: 74043c17606032c4d968e4ce300fb33b
+      internalID: -1413294825
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_1
+      name: Run 1
       rect:
         serializedVersion: 2
         x: 19
@@ -164,14 +164,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e3c6adb54090ed4482b5b9fdb9c8ecf
-      internalID: -1509380615
+      spriteID: 188e8f1761dccac4baa113bec2755a97
+      internalID: -835281720
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_2
+      name: Run 2
       rect:
         serializedVersion: 2
         x: 38
@@ -185,14 +185,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 273c573050a9b3b45b536e28e12118e4
-      internalID: -1324876000
+      spriteID: 3e05a9d43c59b8c4688b45933e75f43a
+      internalID: 323694377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_3
+      name: Run 3
       rect:
         serializedVersion: 2
         x: 0
@@ -206,14 +206,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af6bfa2b96551a44f9a80b3a9de3c123
-      internalID: 127469529
+      spriteID: a435002f75293b44ea6f6fd83cdfc2d0
+      internalID: 226952688
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_4
+      name: Run 4
       rect:
         serializedVersion: 2
         x: 19
@@ -227,14 +227,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bc8349bfb7d8ea448f5c4e9aea1a596
-      internalID: 1234739761
+      spriteID: 7347bfd820e47ee46b3ca19dba625c14
+      internalID: -1374332788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Run_5
+      name: Run 5
       rect:
         serializedVersion: 2
         x: 38
@@ -248,14 +248,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cea8da0d8f63f3a47a59a89e8cfff53d
-      internalID: 1040127551
+      spriteID: 34cd6c43159da2e4491a60af52f8d764
+      internalID: -1176146041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stand_0
+      name: Stand 0
       rect:
         serializedVersion: 2
         x: 0
@@ -269,14 +269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17f49c49cde27804b95369d9e83a52a9
-      internalID: 1406381168
+      spriteID: e9001df712662cf4c938ef2bbcc1c080
+      internalID: 978012912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stand_1
+      name: Stand 1
       rect:
         serializedVersion: 2
         x: 19
@@ -290,14 +290,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f6d2445385fc2c4c8e390a7a8e0546b
-      internalID: 255039492
+      spriteID: d3be3ea961be22749a76d8dc6c26537d
+      internalID: -1746337116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stand_2
+      name: Stand 2
       rect:
         serializedVersion: 2
         x: 38
@@ -311,14 +311,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 423b8e4a5227d1444aeed8976ed73db5
-      internalID: -93735901
+      spriteID: d709f65dde219b948a1c9d429e0d1cf4
+      internalID: 1568079989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Stand_3
+      name: Stand 3
       rect:
         serializedVersion: 2
         x: 0
@@ -332,14 +332,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ca5e31cf62cde047885b7e421fd11b0
-      internalID: 2034864591
+      spriteID: 542128bc57968d2478baf28ce7f2308d
+      internalID: -515329287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_0
+      name: Dead 0
       rect:
         serializedVersion: 2
         x: 19
@@ -353,14 +353,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff4d5bb961708904693a8e1263d133be
-      internalID: -1437954691
+      spriteID: 42c94122421cf1343b1e68650719151d
+      internalID: 2129895255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_1
+      name: Dead 1
       rect:
         serializedVersion: 2
         x: 38
@@ -374,8 +374,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 146bf4e1f21f3b6408cdf3be4fd74ae0
-      internalID: -758102714
+      spriteID: ac5ad530b12f7914cb4f3c95978366fe
+      internalID: -810896228
       vertices: []
       indices: 
       edges: []
@@ -391,18 +391,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Dead_0: -1437954691
-      Dead_1: -758102714
-      Run_0: 316493668
-      Run_1: -1509380615
-      Run_2: -1324876000
-      Run_3: 127469529
-      Run_4: 1234739761
-      Run_5: 1040127551
-      Stand_0: 1406381168
-      Stand_1: 255039492
-      Stand_2: -93735901
-      Stand_3: 2034864591
+      Dead 0: 2129895255
+      Run 0: -1413294825
+      Run 5: -1176146041
+      Stand 3: -515329287
+      Run 2: 323694377
+      Run 3: 226952688
+      Stand 0: 978012912
+      Stand 2: 1568079989
+      Run 4: -1374332788
+      Run 1: -835281720
+      Dead 1: -810896228
+      Stand 1: -1746337116
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
