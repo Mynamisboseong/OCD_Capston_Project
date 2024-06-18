@@ -19,8 +19,20 @@ public class Player : MonoBehaviour
         anim = GetComponent<Animator>();
         scanner = GetComponent<Scanner>();
     }
+
+    private void Update()
+    {
+        if (!GameManager.Instance.isLive)
+        {
+            return;
+        }
+    }
     private void FixedUpdate()
     {
+        if (!GameManager.Instance.isLive)
+        {
+            return;
+        }
         Vector2 nextvec = inputVec.normalized * speed * Time.fixedDeltaTime;
         rigid.MovePosition(rigid.position + nextvec);
     }
@@ -37,6 +49,25 @@ public class Player : MonoBehaviour
         if(inputVec.x !=0) 
         {
             spriter.flipX = (inputVec.x < 0);
+        }
+    }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (!GameManager.Instance.isLive)
+            return;
+
+        GameManager.Instance.health -= Time.deltaTime * 10;
+
+        if (GameManager.Instance.health < 0)
+        {
+            for(int index=2; index<transform.childCount; index++)
+            {
+                transform.GetChild(index).gameObject.SetActive(false);
+            }
+
+            anim.SetTrigger("Dead");
+            GameManager.Instance.GameOver();
         }
     }
 }
